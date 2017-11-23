@@ -9,9 +9,13 @@ package oopdrugs;
  *
  * @author MERC-LAB-01
  */
-public class Amp {
-    Vmp vmp;
+public class Vmp {
+    Vtm vtm;    
+    double strength;
+    String dosageform;
     String name;
-    String manufacturer;
+    String strengthUnit;
+    
+    
     
 }

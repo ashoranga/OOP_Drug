@@ -9,9 +9,9 @@ package oopdrugs;
  *
  * @author MERC-LAB-01
  */
-public class Amp {
-    Vmp vmp;
-    String name;
-    String manufacturer;
+public class Vtm {
+    String gname;
+    String formula;
+    String sideEffect;
     
 }
